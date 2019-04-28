@@ -10,8 +10,7 @@
     #if the starts with 'From' and the white space
     #if the line starts with 'From' and something else is written
     #not including the day we want to be printed
-def week_day() :
-    week = ['Sat','Sun','Mon','Tue','Wed','Thu','Fri']
+
 
 fhand = open('mbox.txt')
 count = 0
